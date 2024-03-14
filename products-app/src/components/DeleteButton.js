@@ -44,4 +44,5 @@ const DeleteButton = ({ productId, onProductDeleted }) => {
   );
 };
 
-export default DeleteButton;
+export default DeleteButton
+/* stepc */ 
